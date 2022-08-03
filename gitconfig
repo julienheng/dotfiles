@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hengjchan@gmail.com
+	name = julien heng
